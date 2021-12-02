@@ -1,0 +1,3 @@
+﻿  Pyanykh_Source.cpp
+C:\Users\I\source\repos\oc\oc\Pyanykh_Source.cpp(63,57): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  oc.vcxproj -> C:\Users\I\source\repos\oc\Debug\oc.exe
